@@ -1,9 +1,6 @@
-### Hello, World! Meu nome é Lucas Renan 👋
+### Lucas Nunes 
 
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas na Universidade do Estado do Pará ...
-- 🤔 Estudando Desenvolvimento Web ...
-- 💬 Niguém sabe o que o futuro reserva. É por isso que as possibilidades são infinitas ...
 ##
 
 <div>

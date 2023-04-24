@@ -1,4 +1,4 @@
-### 🎧 Lucas Renan 🎸
+### 🎧 Hey Everyone!! I'm Lucas 🎸
 
 ##
 

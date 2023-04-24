@@ -1,5 +1,4 @@
-### 🎧 Lucas Nunes 🎸
-
+### 🎧 Lucas Renan 🎸
 
 ##
 
@@ -39,8 +38,21 @@
 ##
   
 <div> 
+<!--   <h1 align="center">Redes Sociais</h1>
+  <a href = "mailto: lucasnunes2030@gmail.com">
+    <img width="30" src="gmail.svg">
+  </a>
+  <a href = "https://www.linkedin.com/in/lucas-nunes-324822135">
+    <img width="25" src="linkedin.svg">
+  </a>
+  <a href = "https://www.instagram.com/luk3mn/">
+    <img width="25" src="instagram.png">
+  </a> -->
   <a href="mailto:lucasnunes2030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-nunes-324822135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/luk3mn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--   <a href="https://www.instagram.com/luk3mn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
+  
+![Snake animation](https://github.com/luk3mn/luk3mn/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) -->

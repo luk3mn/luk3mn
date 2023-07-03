@@ -24,12 +24,23 @@
 ![css](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3)
 ![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+-->
+## ***Projects***
+<!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)-->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=app_database_container&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=shopping-list&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/shopping-list)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=convenience&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/convenience)
+
 ## ***Contact me***
 [![GitHub](https://img.shields.io/badge/github-%23000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/luk3mn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nunes-324822135/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnunes2030@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luk3mn/)
-  
+
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">

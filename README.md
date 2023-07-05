@@ -9,7 +9,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luk3mn&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk3mn&layout=compact&langs_count=6&theme=dracula"/>
   </a>
-</div><br>
+</div><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=dracula&card_width=600px)](https://git.io/streak-stats)
 
 ## ***Skills***
 ![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
@@ -24,8 +26,6 @@
 ![css](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3)
 ![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 -->

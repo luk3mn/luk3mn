@@ -1,5 +1,5 @@
 ### 🎧 Hey Everyone!! I'm Lucas 🎸
-<p style="font-size: 15px"> I am a graduate of Systems Analysis and Development and a lover of emerging technologies and disruptive innovations. My main interest is in web application development, as well am an enthusiast of the data ecosystem and Artificial Intelligence, with a goal of exploring the power of data through programming.</p>
+  <p style="font-size: 15px; text-align: justify"> I am a graduate of Systems Analysis and Development and a lover of emerging technologies and disruptive innovations and music. My main interest is in web application development, as well am an enthusiast of the data ecosystem and Artificial Intelligence, with a goal of exploring the power of data through programming. </p>
 
 <!-- ## Minhas Contribuições -->
 
@@ -49,8 +49,8 @@
   <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="MySql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="React-Native" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-  
-  <!--<img align="right" alt="Luke-gif" src="https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-anime5.gif">-->
+
+  <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
 </div>
 
 ![Snake animation](https://github.com/luk3mn/luk3mn/blob/output/github-contribution-grid-snake.svg)

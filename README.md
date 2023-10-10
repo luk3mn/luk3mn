@@ -1,5 +1,5 @@
 ### 🎧 Hey Everyone!! I'm Lucas 🎸
-  <p style="font-size: 15px; text-align: justify"> I am a graduate of Systems Analysis and Development and a lover of emerging technologies and disruptive innovations and music. My main interest is in web application development, as well am an enthusiast of the data ecosystem and Artificial Intelligence, with a goal of exploring the power of data through programming. </p>
+  <p style="font-size: 15px; text-align: justify"> My degree is in Software Analysis and Development. I love emerging technologies, disruptive innovations, and of course, music as well. I am interested in web application development, on top of that, I am an enthusiast of the data ecosystem and Artificial Intelligence, with a goal of exploring the power of data through programming. </p>
 
 <!-- ## Minhas Contribuições -->
 

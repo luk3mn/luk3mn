@@ -15,15 +15,21 @@
 
 ## ***Skills***
 ![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
-![django](https://img.shields.io/badge/django-%23000?style=for-the-badge&logo=django&color=%23000)
+![django](https://img.shields.io/badge/Django-%23000?style=for-the-badge&logo=django&logoColor=092E20)
+![flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+![java](https://img.shields.io/badge/Java-%23000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![spring](https://img.shields.io/badge/Spring-%23000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![aws](https://img.shields.io/badge/AWS-%23000?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
 ![javascript](https://img.shields.io/badge/javascript-%23000?style=for-the-badge&logo=javascript&color=%23000)
 ![postgres](https://img.shields.io/badge/postgresql-%23000?style=for-the-badge&logo=postgresql)
+![mysql](https://img.shields.io/badge/MySQL-%23000?style=for-the-badge&logo=mysql&logoColor=white)
 ![terraform](https://img.shields.io/badge/terraform-%23000?style=for-the-badge&logo=terraform)
 ![docker](https://img.shields.io/badge/docker-%23000?style=for-the-badge&logo=docker)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000?style=for-the-badge&logo=mysql)
 ![php](https://img.shields.io/badge/php-%23000?style=for-the-badge&logo=php)
 ![HTML](https://img.shields.io/badge/HTML-%23000?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3)
+![reactnative](https://img.shields.io/badge/React_Native-%23000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)
 
 <!--
@@ -33,7 +39,7 @@
 <!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)-->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=app_database_container&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=shopping-list&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/shopping-list)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=convenience&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/convenience)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/dslist)
 
 ## ***Contact me***
 <!--[![GitHub](https://img.shields.io/badge/github-%23000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/luk3mn)-->

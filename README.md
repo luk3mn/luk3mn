@@ -43,15 +43,15 @@
 -->
 ## ***Projects***
 <!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)-->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=app_database_container&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=shopping-list&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/shopping-list)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=spotify-profile&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/spotify-profile)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/dslist)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=shopping-list&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/shopping-list)
 
 ## ***How to reach me***
 <!--[![GitHub](https://img.shields.io/badge/github-%23000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/luk3mn)-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmaues/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnunes2030@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/-luke.mn-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">

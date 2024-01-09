@@ -20,7 +20,31 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=dracula&card_width=600px)](https://git.io/streak-stats)
 
 ## ***Skills***
-![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="color: #fff">
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  
+</div>
+
+<!--![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
 ![django](https://img.shields.io/badge/Django-%23000?style=for-the-badge&logo=django&logoColor=092E20)
 ![flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
 ![java](https://img.shields.io/badge/Java-%23000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -36,7 +60,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%23000?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3)
 ![reactnative](https://img.shields.io/badge/React_Native-%23000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)
+![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)-->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)

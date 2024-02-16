@@ -3,8 +3,7 @@
 
 ## ***Ask me about***
 - Technology
-- Anime
-- Music (Mostly Rock)
+- Play the guitar
 
 
 <!-- ## Minhas Contribuições -->
@@ -20,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=dracula&card_width=600px)](https://git.io/streak-stats)
 
 ## ***Skills***
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
+<!--<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,9 +41,9 @@
   <img alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   
-</div>
+</div>-->
 
-<!--![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
+![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&color=%23000)
 ![django](https://img.shields.io/badge/Django-%23000?style=for-the-badge&logo=django&logoColor=092E20)
 ![flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
 ![java](https://img.shields.io/badge/Java-%23000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -60,7 +59,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%23000?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3)
 ![reactnative](https://img.shields.io/badge/React_Native-%23000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)-->
+![linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)

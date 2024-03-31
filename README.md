@@ -36,26 +36,15 @@
   </a>
 </div>
 
-## ***Skills***
-<h2 align="center">Front-End</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,javascript" />
-</div>
-
-<h2 align="center">Back-End</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,flask,django,postgresql,mysql,docker,aws," />
-</div>
-
-<!-- ## Minhas Contribuições -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <img src="https://skillicons.dev/icons?i=python,java,spring,flask,django,postgresql,mysql,aws,docker,php,mongodb" /></br>
+    <img src="https://skillicons.dev/icons?i=angular,react,html,css,javascript,typescript" /></br>
+    <img src="https://skillicons.dev/icons?i=vscode,linux,github,terraform,git" />
+    </br>
 </div>
 
 <hr/>
@@ -71,17 +60,36 @@
 
 <hr/>
 
-<h2 align="center">⚡ Projects ⚡</h2>
+<h2 align="center">⚗️ Projects ⚗️</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=spotify-profile&cache_seconds=86400&theme=react" alt="spotify-profile"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=react" alt="dslist" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=mal-api&cache_seconds=86400&theme=react" alt="mal-api" />
+    <a href="https://github.com/luk3mn/spotify-profile">
+      <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=spotify-profile&cache_seconds=86400&theme=react" alt="spotify-profile"/>
+    </a>
+     <a href="https://github.com/luk3mn/dslist">
+        <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=react" alt="dslist" />
+     </a> 
+     <a href="https://github.com/luk3mn/mal-api">
+        <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=mal-api&cache_seconds=86400&theme=react" alt="mal-api" />
+     </a>
+    <!--<a href="https://github.com/luk3mn/certification_nlw">
+        <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=certification_nlw&cache_seconds=86400&theme=react" alt="certification_nlw" />
+     </a>-->
 </div>
 
+<hr/>
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline-block;"><br>
   <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
+</div>-->
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
+  <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
+  
+  <br/><br/><br/>
 </div>
 
-![Snake animation](https://github.com/luk3mn/luk3mn/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/luk3mn/luk3mn/blob/output/github-contribution-grid-snake.svg)-->

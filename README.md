@@ -1,4 +1,4 @@
-### 🎧 Hey Everyone!! I'm Lucas 🎸
+### 🎧 Hey Everyone!! I'm Lucas 🎸 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luk3mn.luk3mn" />
   <p style="font-size: 15px; text-align: justify"> My degree is in Software Analysis and Development. I love emerging technologies, disruptive innovations, and of course, music as well. I am interested in web application development, on top of that, I am an enthusiast of the data ecosystem and Artificial Intelligence intending to explore the power of data through programming. </p>
 
 ## ***Ask me about***

@@ -1,5 +1,14 @@
-### 🎧 Hey Everyone!! I'm Lucas 🎸 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luk3mn.luk3mn" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luk3mn.luk3mn"/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone!!+👋🎧🎸;+I'm+Lucas+Renan!;" />
+</h1>
+
+
+### 🎧 Hey Everyone!! I'm Lucas 🎸 
   <p style="font-size: 15px; text-align: justify"> My degree is in Software Analysis and Development. I love emerging technologies, disruptive innovations, and of course, music as well. I am interested in web application development, on top of that, I am an enthusiast of the data ecosystem and Artificial Intelligence intending to explore the power of data through programming. </p>
+
+
 
 ## ***Ask me about***
 - Technology

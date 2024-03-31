@@ -83,11 +83,13 @@
   <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
 </div>-->
 
-<div align="center">
+<div align="center"">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
-  <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
+    <div>
+        <img width="750" alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
+        <img width="210" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif" /> 
+    </div>
   
   <br/><br/><br/>
 </div>

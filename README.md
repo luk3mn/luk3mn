@@ -86,10 +86,20 @@
 <div align="center"">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <div>
+    <table>
+        <tr>
+            <td>
+                <img width="750" alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
+            </td>
+            <td>
+                <img width="210" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif" /> 
+            </td>
+        </tr>
+    </table>
+    <!--<div>
         <img width="750" alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
         <img width="210" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif" /> 
-    </div>
+    </div>-->
   
   <br/><br/><br/>
 </div>

@@ -50,36 +50,37 @@
 </div>
 
 <!-- ## Minhas Contribuições -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## ***GitHub Stats***
-<div>
-  <a href="https://github.com/luk3mn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luk3mn&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk3mn&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
-</div><br/>
+<hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=dracula&card_width=600px)](https://git.io/streak-stats)
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=luk3mn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=luk3mn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luk3mn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luk3mn&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
--->
-## ***Projects***
-<!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/app_database_container)-->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=spotify-profile&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/spotify-profile)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/dslist)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=shopping-list&cache_seconds=86400&theme=radical)](https://github.com/luk3mn/shopping-list)
+<hr/>
+
+<h2 align="center">⚡ Projects ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=spotify-profile&cache_seconds=86400&theme=react" alt="spotify-profile"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=dslist&cache_seconds=86400&theme=react" alt="dslist" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=luk3mn&repo=mal-api&cache_seconds=86400&theme=react" alt="mal-api" />
+</div>
 
 
 <div style="display: inline_block"><br>
-<!--   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="MySql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="React-Native" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-
   <img height="150px" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif"> 
 </div>
 

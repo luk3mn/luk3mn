@@ -41,9 +41,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,flask,django,postgresql,mysql,aws,docker,php,mongodb" /></br>
+    <img src="https://skillicons.dev/icons?i=python,java,spring,flask,django,postgresql,mysql,aws,docker,php,mongodb,sqlite" /></br>
+    <img src="https://skillicons.dev/icons?i=vscode,linux,github,terraform,git,idea,maven,netlify" />
     <img src="https://skillicons.dev/icons?i=angular,react,html,css,javascript,typescript" /></br>
-    <img src="https://skillicons.dev/icons?i=vscode,linux,github,terraform,git" />
     </br>
 </div>
 

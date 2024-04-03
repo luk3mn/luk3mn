@@ -92,7 +92,8 @@
                 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luk3mn/luk3mn/output/github-contribution-grid-snake.svg" />
             </td>
             <td>
-                <img width="180" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif" /> 
+                <!--<img width="180" align="right" alt="Luke-gif" src="https://i.pinimg.com/originals/cd/04/41/cd0441768e32f23aae339623f81dcec9.gif" />--> 
+                <img width="180" align="right" alt="Luke-gif" src="https://media.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" />
             </td>
         </tr>
     </table>

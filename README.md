@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+Everyone!!+👋🎧🎸;+I'm+Lucas+Renan!;" />
-    <img width="160" align="right" src="https://raw.githubusercontent.com/luk3mn/luk3mn/main/soft.png">
+    <!--<img width="160" align="right" src="https://raw.githubusercontent.com/luk3mn/luk3mn/main/soft.png">-->
 </h1>
 
 <h3 align="center">A developer passionate about Emerging Technologies, Disruptive Innovations, and Music of course</h3>

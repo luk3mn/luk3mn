@@ -5,7 +5,7 @@
     <!--<img width="160" align="right" src="https://raw.githubusercontent.com/luk3mn/luk3mn/main/soft.png">-->
 </h1>
 
-<h3 align="center">A developer passionate about Emerging Technologies, Disruptive Innovations, and Music of course</h3>
+<h3 align="center">A developer passionate about emerging technologies, disruptive innovations, and—of course—music.</h3>
 
 <div align="center">
  
@@ -13,9 +13,9 @@
 
 🔭 I’m currently working on **become myself better**
  
-🌱 I’m currently learning **Java, Docker, AWS**
+🌱 I’m currently learning **React, Docker, AWS**
 
-💬 Ask me about **Python, PostgreSQL, AWS... or anything [here](https://github.com/luk3mn/luk3mn/issues)**
+💬 Ask me about **React Native, Python, PostgreSQL, AWS... or anything [here](https://github.com/luk3mn/luk3mn/issues)**
 
 ⚡ Fun fact **The One Piece Is Real!**
 
